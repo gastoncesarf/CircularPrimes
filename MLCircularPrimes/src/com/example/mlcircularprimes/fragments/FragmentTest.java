@@ -58,9 +58,9 @@ public class FragmentTest extends BaseFragment {
 		expListView = (ExpandableListView) view.findViewById(R.id.lyPrimesList);
 
 		// Inicializo el spiner con las opciones (10 - 100 - 1000 - 10000 -
-		// 100000 - 1000000 - 10000000)
-		String arrSpinner[] = new String[7];
-		for (int i = 0; i < 7; i++)
+		// 100000 - 1000000)
+		String arrSpinner[] = new String[6];
+		for (int i = 0; i < 6; i++)
 			arrSpinner[i] = String.valueOf(((Double) Math.pow(10, (double) i + 1)).intValue());
 		final Spinner limit = (Spinner) view.findViewById(R.id.lyLimitSpinner);
 		limit.setAdapter(new ArrayAdapter(getActivity(), android.R.layout.simple_spinner_item, arrSpinner));
