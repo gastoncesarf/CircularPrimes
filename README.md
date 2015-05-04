@@ -14,8 +14,11 @@ Esta pantalla nos permite verificar si el numero ingresado es un Primo Circular,
 
 Esta pantalla es un poco mas completa, propongo 2 mecanismos para la busqueda de TODOS los Primos Circulares usando 2 algoritmos, el primero corresponde a un algoritmo "mejorado" de busqueda por fuerza bruta, mientras que el segundo es el ya conocido de la Criba de Eratosthenes ("Sieve of Eratosthenes"), es interesante analizar ambos ya que, si bien el primero utiliza threas, durante el test verficaremos que en la mayoria de los casos (por no decir todos) el segundo algortimo (Eratosthenes) es mucho mas rapido, le insume la casi la mitad del tiempo respecto al primero.
 El spinner nos dejara seleccionar los valores 10, 100, 1000, 10000, 100000, 1000000 y 10000000.
+
 Para el calculo con Threads, basicamente el proceso es separado en N subprocesos, N será igual a la cantidad de procesadores **N = Runtime.getRuntime().availableProcessors()**, con esto intento aprovechar de alguna forma todos los recursos disponibles. 
+
 Sin embargo, al ejecutar ambos, concluiremos que el uso de Threads no tiene sentido para la resolucion de este problema ya que evidentemente el costo de los Threads es elevado y termina insumiendo mas tiempo que el algoritmo de Eratosthenes. 
+
 Otro punto fundamental quizas, es que el problema corresponde a una complejidad espacial de O(n) y una complejidad temporal de O(n^2), entonces el uso de Threads no nos mostraria una mejora significativa en el calculo.
 
 **Pantall 3**
