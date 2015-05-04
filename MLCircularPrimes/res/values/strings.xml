@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ML</string>
+    <string name="ly_test_alg">Algoritmo</string>
+    <string name="ly_test_trheads">Threads</string>
+    <string name="ly_test_sieve">Criba de Eratóstenes</string>
+    <string name="ly_test_btn">Obtener primos circulares</string>
+    <string name="ly_main_btn">Verificar número</string>
+    <string name="ly_lbl_process">Calculando&#8230;&#8230;</string>
+    <string name="ly_test_lbl_primes_total">Primos circulares:</string>
+    <string name="ly_lbl_primes_time">Tiempo (ms):</string>
+    <string name="ly_stadistics_btn">Iniciar Cálculo</string>
+
+</resources>
