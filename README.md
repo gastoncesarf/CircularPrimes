@@ -31,7 +31,10 @@ Como extra les dejo un grafico para mostrar el tiempo que insumen ambos algoritm
 
 Les dejo aqui el archivo APK para que puedan testearlo en el dispositivo
 
-**[DESCARGAR APK AQUI](https://www.dropbox.com/s/suk8bexqe442d1e/MLCircularPrimes.apk?dl=0)**
+**[DESCARGAR APK AQUI - LINK 1](https://www.dropbox.com/s/suk8bexqe442d1e/MLCircularPrimes.apk?dl=0)**
+
+**[DESCARGAR APK AQUI - LINK 2](https://drive.google.com/file/d/0BxNgay9IsYFfQTZrSFVYU2tTU28/view?usp=sharing)**
+
 
 **DEMO (Video)**
 
