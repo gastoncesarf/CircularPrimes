@@ -36,7 +36,7 @@ Les dejo aqui el archivo APK para que puedan testearlo en el dispositivo
 
 **DEMO (Video)**
 
-Aqui les dejo tambien un video explicando un poco el proyecto, proceso y ejecucion del mismo.
+Aqui les dejo tambien un video explicando un poco el proyecto, proceso y ejecucion del mismo. (disponible proximamente...)
 
 
 
